@@ -54,7 +54,7 @@ A simple WhatsApp User bot.
 
        - Enter Environment Variables: Copy-paste the lines below (remove SESSION_ID if not needed):
 
-             echo "SESSION_ID = Session_Id_you_Got_After_Scan_Dont_Add_This_Line_If_You_Can_Scan_From_Terminal_Itself
+             echo "SESSION_ID = 01_26_H_E_R_M_I_T_PEGWZJP Session_Id_you_Got_After_Scan_Dont_Add_This_Line_If_You_Can_Scan_From_Terminal_Itself
              PREFIX = .
              STICKER_PACKNAME = LyFE
              ALWAYS_ONLINE = false
