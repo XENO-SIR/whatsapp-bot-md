@@ -1,6 +1,6 @@
 {
-  "name": "levanter@5.0.0",
-  "description": "",
+  "name": "Xeno sir@5.0.0",
+  "description": "xeno sir antiban",
   "keywords": ["noedjs"],
   "success_url": "/",
   "env": {
@@ -32,7 +32,7 @@
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
       "required": false,
-      "value": "❤️,LyFE"
+      "value": "❤️,XENO"
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku app name, same as above entered.",
