@@ -3,6 +3,6 @@
 
 <p align="center">
   <a href="https://wa.me/918136810956">
-    <img height="300" src="https://i.imgur.com/4iAODFB.jpg">
+    <img height="300" src="https://i.imgur.com/ymT4Ass.jpeg">
   </a>
 </p>
